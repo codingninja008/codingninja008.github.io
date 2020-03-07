@@ -199,6 +199,7 @@ nav #menu li a:hover {
 
 
 #resize #menu {
+	top: -90px;
 	height: 90px;
 	position: absolute;
 	left: 45%;
