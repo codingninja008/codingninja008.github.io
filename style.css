@@ -212,7 +212,7 @@ nav #menu li a:hover {
 #resize #menu li {
 	display: block;
 	text-align: center;
-	padding: 5px 0;
+	padding: -20px 0;
 	font-size: 50px;
 	min-height: 50px;
 	font-weight: bold;
