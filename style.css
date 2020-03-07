@@ -903,9 +903,7 @@ video {
 	.project {
 		width: 90% !important;
 		margin: 14px auto;
-	}
-
-	.vertical {
+		background: none;
 		display: none;
 	}
 
