@@ -64,7 +64,7 @@ html, body {
 		}
 		to {
 			width: 12em;
-			color: red;
+			color: #45B8AC;
 		}
 	}
 }
@@ -954,6 +954,8 @@ section {
 	font-family: sans-serif;
 }
 
-.more {
-	margin: 40px 0;
+@media(max-width: 768px) {
+	.section-subheading h1{
+		font-size: 24px;
+	}
 }
